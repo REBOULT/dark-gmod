@@ -10,3 +10,4 @@
 ## Для установки требуется перенести все содержимое папки "ooo" в корневую папку игры с заменой файлов. Удачи!
 
 https://reboult.github.io
+![](https://view-counter.tobyhagan.com/?user={REBOULT}/{dark-gmod})
