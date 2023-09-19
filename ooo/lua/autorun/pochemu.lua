@@ -13,7 +13,7 @@ local color = {mdl = Color(220, 220, 220), hint = Color(200, 0, 0)}
 local errors, already = setmetatable({}, {__mode = "v"}), setmetatable({}, {__mode = "k"})
 local index = 0
 local max_dist = 512 ^ 2
-hook.Add("HUDPaint", "incredible-gmod.ru/no-errors", function()
+hook.Add("HUDPaint", "bezgovnaebannogo", function()
     local ents = ents.GetAll()
     local ent
 
